@@ -1,106 +1,290 @@
-<!-- Header with Animation -->
-<!-- Header -->
-<h1 align="center">Hi there, I'm Christima Mary 👋</h1>
-<h3 align="center">Full Stack Developer | MSc in Software Engineering | Based in the UK</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=brightgreen" alt="Profile views" />
-</p>
+<!-- Animated Header with Custom Design -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,14,17,20&height=200&section=header&text=Christima%20Mary&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Sorceress%20%7C%20Code%20Artisan%20%7C%20Digital%20Dream%20Weaver&descAlignY=60&descAlign=50"/>
 
----
+</div>
 
-## 👩‍💻 About Me
+<div align="center">
 
-I'm a results-driven **Software Engineer** with hands-on experience building scalable web applications using modern JavaScript technologies. My background includes delivering dynamic solutions using **React.js**, **Next.js**, **Node.js**, **Strapi**, and **HubSpot CMS** for both startups and client-facing projects.
+<!-- Typing Animation with Multiple Lines -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Brewing+coffee+%E2%98%95+and+compiling+dreams+into+reality;Turning+%7B+ideas+%7D+into+%3C+experiences+%3E;Where+purple+code+meets+elegant+design+%F0%9F%92%9C" alt="Typing SVG" /></a>
+
+</div>
+
+<!-- Custom Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🌟 『 Welcome to My Digital Realm 』 🌟
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎭 The Story
 
 ```javascript
-const christima = {
-  code: ['JavaScript', 'Java', 'PHP', 'HTML', 'CSS'],
-  technologies: {
-    frontEnd: ['React', 'Next.js', 'Tailwind CSS'],
-    backEnd: ['Node.js', 'Express', 'Spring Boot'],
-    databases: ['MongoDB', 'MySQL'],
-    cms: ['Strapi', 'HubSpot'],
-    tools: ['Git', 'GitHub', 'VS Code', 'Postman']
-  },
-  currentFocus: 'Building scalable web applications with modern tech stacks',
-  funFact: 'I debug with coffee and solve problems with chocolate!'
-};
+class Developer {
+  constructor() {
+    this.name = "Christima Mary";
+    this.role = "Full Stack Alchemist";
+    this.language = "JavaScript 💛";
+    this.currentQuest = ["C#", "Unity"];
+    this.superpower = "Flexibility";
+    this.weakness = "Coffee ☕";
+  }
+
+  getDailyRoutine() {
+    return [
+      "☕ Coffee++",
+      "💻 Code",
+      "📚 Read Classics",
+      "🎮 Unity Experiments",
+      "🔁 Repeat"
+    ];
+  }
+
+  getLifeMotto() {
+    return "Crafting pixels & logic" +
+           "with a touch of purple magic ✨";
+  }
+}
 ```
 
-With a strong foundation in **data structures, algorithms**, and **object-oriented programming**, I bring clarity and structure to complex problems. Currently expanding my backend expertise with **Java** and **Spring Boot**, I enjoy working across the full stack to create efficient and user-centric applications.
+</td>
+<td width="50%">
 
-I'm passionate about clean code, design patterns, and building software that's both functional and elegant. Always learning, always shipping.
+### 🎯 Current Missions
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
+
+**🔮 Exploring:**
+- 🎮 Unity Game Dev
+- 🔷 C# Mastery
+
+**💼 Status:**
+```diff
++ Open to Collaborations
++ Seeking Opportunities
++ Coffee Consultation Available
+```
+
+**📖 Current Read:**
+*Jane Eyre by Charlotte Brontë*
+
+**🎨 Design Philosophy:**
+> "Code is poetry, UI is art,  
+> And coffee is the muse"
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🔮 『 Tech Arsenal 』 🔮
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💜 Core Languages
+
+<img src="https://skillicons.dev/icons?i=js,java,cs&theme=dark" />
+
+**JavaScript** ⭐ Favorite  
+**Java** • **C#**
+
+</td>
+<td align="center" width="25%">
+
+### 🎨 Frontend Magic
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+
+**React** • **Next.js**  
+**TailwindCSS** • **Responsive UI**
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ Backend Power
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+**Node.js** • **Express**  
+**MongoDB** • **MySQL**
+
+</td>
+<td align="center" width="25%">
+
+### 🛠️ Tools & More
+
+<img src="https://skillicons.dev/icons?i=unity,git,github,vscode,figma&theme=dark" />
+
+**Unity** • **Git**  
+**HubSpot** • **Strapi**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 📊 『 GitHub Chronicles 』 📊
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Christima-Mary-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=D946EF&text_color=C9D1D9&ring_color=9D4EDD" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Christima-Mary-S&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=D946EF&currStreakLabel=9D4EDD&sideLabels=9D4EDD" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Christima-Mary-S&custom_title=Contribution%20Odyssey&bg_color=0D1117&color=9D4EDD&line=D946EF&point=FFFFFF&area=true&hide_border=true" />
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christima-Mary-S&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" />
+</td>
+<td width="50%">
+
+### 🏆 Achievement Unlocked
+
+<img src="https://github-profile-trophy.vercel.app/?username=Christima-Mary-S&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+
+
+## 💌 『 Connect & Collaborate 』 💌
+
+<table>
+<tr>
+<td align="center">
+<a href="https://christima-mary.netlify.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-9D4EDD?style=for-the-badge&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/christima-mary-s/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="mailto:christimamarys@gmail.com">
+<img src="https://img.shields.io/badge/Email-D946EF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</td>
+</tr>
+</table>
+
+### ✨ Open For
+
+```yaml
+opportunities:
+  - Full Stack Development Roles
+  - Freelance Projects
+  - Open Source Collaborations
+  - Coffee-Fueled Brainstorming Sessions ☕
+
+interests:
+  - Innovative Web Applications
+  - Game Development
+  - Creative UI/UX Challenges
+  - Discussing Classic Literature 📚
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 📚 『 Beyond The Code 』 📚
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ☕ Coffee Addict
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt6ZDNvZzBxbnVrZWI4aWN1eHhxZGZ5Y3psaHR5ZnVtb3B6ZGhkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgqJGwh2tLj5C/giphy.gif" width="150" />
+
+*Debugging is 20% logic  
+80% coffee*
+
+</td>
+<td align="center" width="33%">
+
+### 📖 Literature Lover
+
+<img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="150" />
+
+*Currently reading:  
+The classics that  
+never get old*
+
+</td>
+<td align="center" width="33%">
+
+### 💜 Purple Enthusiast
+
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="150" />
+
+*If it can be purple,  
+it should be purple*
+
+</td>
+</tr>
+</table>
+
+### 💭 Today's Dev Wisdom
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%20solve%20the%20problem.%20Then%20write%20the%20code.&author=John%20Johnson)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 🌟 Profile Stats
+
+<img src="https://komarev.com/ghpvc/?username=Christima-Mary-S&label=Profile%20Views&color=9D4EDD&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Christima-Mary-S?label=Followers&style=flat-square&color=9D4EDD" />
+<img src="https://img.shields.io/badge/Coffee%20Consumed-∞-D946EF?style=flat-square" />
 
 ---
 
-## 🛠️ Technologies & Tools
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,14,17,20&height=100&section=footer"/>
 
-<div align="center">
-  
-  ### Languages
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  
-  ### Front-End
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-  ### Back-End
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  
-  ### Databases
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  
-  ### Tools & Platforms
-  ![HubSpot](https://img.shields.io/badge/HubSpot-%23FF7A59.svg?style=for-the-badge&logo=hubspot&logoColor=white)
-  ![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-</div>
+**💜 Crafted with passion, powered by coffee, colored in purple 💜**
 
----
+*"In a world of code, be the poetry"*
 
-## 📊 GitHub Stats
+⭐️ From [Christima Mary](https://github.com/Christima-Mary-S) | © 2025 | Made with 💜 and ☕
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Christima-Mary-S&show_icons=true&theme=react&hide_border=true" width="48%" alt="Christima's GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christima-Mary-S&layout=compact&theme=react&hide_border=true" alt="Christima's Most Used Languages"/>
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/christima-mary-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:christimamary7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://christima-mary.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://x.com/iamchristima" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3>⭐️ Thanks for stopping by! Feel free to connect, collaborate, or just say hi! ⭐️</h3>
 </div>
